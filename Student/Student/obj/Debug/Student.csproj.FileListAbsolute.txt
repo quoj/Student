@@ -1,0 +1,7 @@
+E:\apc\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+E:\apc\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+E:\apc\Student\Student\bin\Debug\Student.exe.config
+E:\apc\Student\Student\bin\Debug\Student.exe
+E:\apc\Student\Student\bin\Debug\Student.pdb
+E:\apc\Student\Student\obj\Debug\Student.exe
+E:\apc\Student\Student\obj\Debug\Student.pdb
